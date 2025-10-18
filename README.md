@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Bilindavid
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python, javascript
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m a software developer
+- 💞️ I’m looking to collaborate on mobile app development using react native
 - 📫 How to reach me bilindavid14@hotmail.com
 
 <!---
-Bilinda
+Bilin David
 --->
